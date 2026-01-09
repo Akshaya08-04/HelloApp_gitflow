@@ -3,7 +3,7 @@
 A simple Java Hello World application created to understand and practice
 Git and GitFlow branching strategy.
 
-## GitFlow Workflow Used
+## GitFlow Workflow used
 
 - main branch – production-ready code
 - develop branch – integration branch
