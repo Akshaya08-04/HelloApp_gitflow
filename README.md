@@ -21,4 +21,4 @@ Git and GitFlow branching strategy.
 6. Pushed main, develop, and tags to GitHub
 
 ## Author
-Akshaya
+Akshaya Priya D
